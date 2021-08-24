@@ -1,0 +1,16 @@
+base
+ape
+geiger
+dplyr
+sf
+ggplot2
+permute
+lattice
+vegan
+nlme
+picante
+rnaturalearth
+sp
+rgdal
+biscale
+cowplot
