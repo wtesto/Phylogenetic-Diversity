@@ -1,7 +1,7 @@
 Species community matrices for estimating phylogenetic diversity
 ================
 Weston Testo
-8/24/2021
+24 August 2021
 
 Here, I detail a flexible approach for estimating Faith’s phylogenetic
 diversity using the `picante` package. This is of course a very
